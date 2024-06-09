@@ -1,0 +1,27 @@
+name: scrape_Hunian
+
+on:
+  schedule:
+  - cron: '1 0 * * *'
+workflow_dispatch:
+  
+  jobs:
+  Hunian-scrape:
+  runs-on: macOS-latest
+env:
+  ATLAS_URL: ${{ secrets.ATLAS_URL }}
+ATLAS_COLLECTION: ${{ secrets.ATLAS_COLLECTION }}
+ATLAS_DB: ${{ secrets.ATLAS_DB }}
+steps:
+  - name: Start time
+run: echo "$(date) ** $(TZ=Asia/Jakarta date)"
+- name: Checkout repository
+uses: actions/checkout@v3
+- name: Set up R
+uses: r-lib/actions/setup-r@v2
+- name: Install packages
+run: |
+  Rscript -e 'install.packages(c("rvest", "tidyverse", "mongolite", "dplyr", "xml2", "tidyr"), dependencies = TRUE)'
+Rscript -e 'install.packages("stringr")'
+- name: Scrape Data Hunian
+run: Rscript Scraping_PinHome.R
