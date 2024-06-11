@@ -1,4 +1,4 @@
-# Scraping_PinHome
+# Scraping PinHome
 
 <p align="center" width="100%">
     <img width="750" height="400" src="https://github.com/nbltriamanda/Scraping_PinHome/blob/main/PINHOME.png">
