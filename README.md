@@ -7,7 +7,7 @@
 
 ## :blue_book: **Deskripsi**
 <p align="justify">
-Properti adalah segala sesuatu yang dimiliki oleh seseorang atau badan hukum, baik itu berupa benda bergerak maupun benda tidak bergerak, yang memiliki nilai ekonomi dan dapat digunakan atau diinvestasikan untuk menghasilkan keuntungan. Dalam konteks real estate atau properti fisik, istilah ini biasanya mengacu pada tanah dan bangunan serta struktur lain yang ada di atasnya. Project ini terfokus pada Properti Hunian yang dipasarkan di situs https://www.pinhome.id/.
+Properti adalah segala sesuatu yang dimiliki oleh seseorang atau badan hukum, baik itu berupa benda bergerak maupun benda tidak bergerak, yang memiliki nilai ekonomi dan dapat digunakan atau diinvestasikan untuk menghasilkan keuntungan. Dalam konteks real estate atau properti fisik, istilah ini mengacu pada tanah dan bangunan serta struktur lain yang ada di atasnya. Project ini terfokus pada Properti Hunian yang dipasarkan di situs https://www.pinhome.id/.
   
 </p>
 
