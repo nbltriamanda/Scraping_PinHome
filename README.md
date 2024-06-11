@@ -1,4 +1,3 @@
-<p align="center">
 # Scraping_PinHome
 
 <p align="center" width="100%">
