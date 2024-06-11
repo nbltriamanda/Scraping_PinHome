@@ -34,9 +34,5 @@ Berikut contoh dokumen pada Mongo DB :
 }
 ```
 
-## :computer: **Visualisasi**
-
-Berikut link visualisasi dari data yang telah di scraping : 
-
 ## :woman_with_headscarf: **Pengembang**
 **Nabila Tri Amanda (G1501231068)**
