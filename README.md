@@ -1,7 +1,7 @@
 # Scraping_PinHome
 
 <p align="center" width="100%">
-    <img width="70%" src="https://kaydee.net/blog/wp-content/uploads/2022/07/what-is-a-hashtag-camel-case-1024x504.png">
+    <img width="750" height="400" src="https://github.com/nbltriamanda/Scraping_PinHome/blob/main/PINHOME.png">
 </p>
 
 
@@ -38,5 +38,5 @@ Berikut contoh dokumen pada Mongo DB :
 
 Berikut link visualisasi dari data yang telah di scraping : 
 
-## :walking: **Pengembang**
+## :woman_with_headscarf: **Pengembang**
 **Nabila Tri Amanda (G1501231068)**
