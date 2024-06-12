@@ -21,7 +21,7 @@ Berikut contoh dokumen pada Mongo DB :
 
 ```
 {
-"_id":{"$oid":"66650c2cc0a4dce3d40be001"},
+"$oid":"66650c2cc0a4dce3d40be001",
 "Nama_Hunian":"Bukit Cimanggu City",
 "Kategori":"Rumah Baru",
 "Harga":"Rp 805,4 Jt - Rp 2,7 M",
