@@ -12,7 +12,7 @@ Properti adalah segala sesuatu yang dimiliki oleh seseorang atau badan hukum, ba
 </p>
 
 <p align="justify">
-Web scraping adalah teknik untuk mengekstraksi informasi dari suatu situs web. Pada Project ini dilakukan web scraping dari situs "Pinhome.com" yang merupakan platform properti yang menyediakan berbagai informasi tentang properti yang dijual. Batasan yang digunakan dalam scraping ini adalah Hunian yang Di "Jual" dengan kondisi Baru dan Eksklusif di Daerah Jabodetabek. Tools yang digunakan dalam Scraping  paket rvest untuk mengambil data seperti jenis rumah, harga, angsuran, pengembang, lokasi, dan spesifikasi rumah, kemudian menyimpan data ini ke MongoDB menggunakan mongolite.
+Web scraping adalah teknik untuk mengekstraksi informasi dari suatu situs web. Pada Project ini dilakukan web scraping dari situs "Pinhome.com" yang merupakan platform properti yang menyediakan berbagai informasi tentang properti yang dijual. Batasan yang digunakan dalam scraping ini adalah Hunian yang Di "Jual" dengan kondisi Baru dan Eksklusif di Daerah Jabodetabek. Tools yang digunakan dalam Scraping ini adalah Rstudio dengan packages rvest untuk mengambil data seperti jenis rumah, harga, angsuran, pengembang, lokasi, dan spesifikasi rumah, kemudian data disimpan ke MongoDB menggunakan mongolite.
 </p>
 
 ## :clipboard: **Dokumen**
